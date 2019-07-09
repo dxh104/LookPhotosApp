@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PhotosGalleryView">
+        <attr name="PhotosGalleryViewBgColor" format="color"></attr>
+        <attr name="PhotosGalleryViewSaveTextColor" format="color"></attr>
+        <attr name="PhotosGalleryViewSaveTextSize" format="dimension"></attr>
+        <attr name="PhotosGalleryViewSaveVisibility" format="boolean"></attr>
+        <attr name="PhotosGalleryViewPositionVisibility" format="boolean"></attr>
+        <attr name="PhotosGalleryViewPositionTextSize" format="dimension"></attr>
+        <attr name="PhotosGalleryViewPositionTextColor" format="color"></attr>
+        <attr name="PhotosGalleryViewAnimDuration" format="integer"></attr>
+    </declare-styleable>
+</resources>
